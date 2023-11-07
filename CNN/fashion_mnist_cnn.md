@@ -1,6 +1,6 @@
 ### CNN optimized using the keras-tuner
 ---
-Link = [Google Collab Notebook](https://drive.google.com/drive/folders/1l6WmAKkjMoX56seEzUZ-s9_OlGx_YfVB?usp=drive_link)
+Link = [Google Collab Notebook](https://colab.research.google.com/drive/1OBtnTbKq-Hmk8rspY5bl4_Izzc4CMChP?usp=sharing)
 
 Dataset = Fashion MNIST dataset
 
